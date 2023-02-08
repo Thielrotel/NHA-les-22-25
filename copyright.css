@@ -1,0 +1,17 @@
+Body {
+  background-color: rgb(21, 25, 205);
+  margin-top: 10px;
+  color: red;
+  margin: 1rem;
+}
+p {
+  color: rgb(191, 185, 203);
+  font-size: 25px;
+}
+a {
+  color: aliceblue;
+  font-size: 30px;
+  border: solid 1px red;
+  padding: 15px;
+  border-radius: 15px;
+}
